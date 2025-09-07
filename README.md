@@ -4,7 +4,7 @@ This project demonstrates how AI can classify text as **Positive**, **Negative**
 This repository is created as a part of the "Grow with Google - Learn Basics of AI" course.
 It demonstrates a simple Artificial Intelligence project using text sentiment analysis.
 
-##"SUMMARY"
+"##SUMMARY"
 
 ## 1. Name and Description
 "Project Name" - Sentiment Analysis on Text 
